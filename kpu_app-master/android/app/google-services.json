@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "604270623167",
+    "project_id": "kpu-app-dad20",
+    "storage_bucket": "kpu-app-dad20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604270623167:android:630a886d2fb8526a44490a",
+        "android_client_info": {
+          "package_name": "com.example.kpu_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDsprl1rrUyJX3viJWpBskxrWfYgFsWkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
